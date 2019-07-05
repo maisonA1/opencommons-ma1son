@@ -1,7 +1,7 @@
 lancer:
   - title: Lancer une résidence MA1SON
     subfolderitems:
-      - title: Outils
+      - title: Pilotage
         subfolderitems:
           - page: Fiche de poste porteur de projet MA1SON
             url: https://docs.google.com/document/d/14yA8r4P3ql0z06hAVLbbLMiugfDdhQnCb5ZBap501H0/edit
