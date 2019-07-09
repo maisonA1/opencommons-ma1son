@@ -7,8 +7,6 @@ lancer:
             url: https://docs.google.com/spreadsheets/d/1t4s20TkewDTIMu-s1EqmkFl5G_fYNNgVWs-8nvZKpdY/edit?usp=sharing
           - page: Fiche mission Service Civique 
             url: https://drive.google.com/file/d/1kcQ7Gf-1dXa8pcuJlmgWxdinKczrT92U/view?usp=sharing
-          - page: Territoires
-            url: https://docs.google.com/spreadsheets/d/1t4s20TkewDTIMu-s1EqmkFl5G_fYNNgVWs-8nvZKpdY/edit
       - title: Recherche
         subfolderitems:
           - page: Le programme Maison pour vivre, apprendre et agir ensemble
@@ -18,6 +16,19 @@ lancer:
             public: true
           - page: Analyse de la satisfaction, du vécu et des sentiments de compétences des résidents du programme MA1SON
             url: https://drive.google.com/file/d/1m67s3k_Gq3LyAF86jZX6A9ukG7mA6Wmp/view?usp=sharing
+      - title: Territoires
+        subfolderitems:
+          - page: Contact des associations
+            url: https://drive.google.com/file/d/17zDwGP8OaxMQGqjLExLMYOTBuCiv-4KL/view?usp=sharing
+          - page: Mapping des associations
+            url: https://drive.google.com/file/d/1fssBBJlaH67G27o9MVi38FRBuMwTXVDM/view?usp=sharing
+          - page: Cartographie
+            url: https://drive.google.com/file/d/1riYSEq4KbpDXdBWIVUx7LJ1E4BYEEtOR/view?usp=sharing
+            public: true
+          - page: Veille des opportunités de financement
+            url: https://drive.google.com/file/d/14NEgXhJ5-IVXQSg4wZ0DRoRJP1zK8-X4/view?usp=sharing
+          - page: Soutien financier aux projets
+            url: https://drive.google.com/file/d/1e70xXhz7tZK-psovETOuL5HvR-hD2v7R/view?usp=sharing
   - title: Piloter et évaluer sa résidence
     subfolderitems:
       - title: Outils
