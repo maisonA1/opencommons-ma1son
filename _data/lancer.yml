@@ -1,7 +1,7 @@
 lancer:
-  - title: Lancer ma résidence MA1SON
+  - title: Pilotage
     subfolderitems:
-      - title: Pilotage
+      - title: Equipe
         subfolderitems: 
           - page: Répartition des missions 
             url: https://docs.google.com/spreadsheets/d/1t4s20TkewDTIMu-s1EqmkFl5G_fYNNgVWs-8nvZKpdY/edit?usp=sharing
