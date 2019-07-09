@@ -1,10 +1,10 @@
 lancer:
-  - title: Lancer une résidence MA1SON
+  - title: Lancer ma résidence MA1SON
     subfolderitems:
       - title: Pilotage
-        subfolderitems:
-          - page: Fiche de poste porteur de projet MA1SON
-            url: https://docs.google.com/document/d/14yA8r4P3ql0z06hAVLbbLMiugfDdhQnCb5ZBap501H0/edit
+        subfolderitems: Equipe 
+          - page: Répartition des missions 
+            url: https://docs.google.com/spreadsheets/d/1t4s20TkewDTIMu-s1EqmkFl5G_fYNNgVWs-8nvZKpdY/edit?usp=sharing
           - page: Tuilage porteur de projet MA1SON
             url: https://docs.google.com/document/d/1PuRDbvqFIeaoOxfgetNM3T2qCmC399Z_UJVJ_UxWL-k/edit
           - page: Répartition des missions de l'équipe
