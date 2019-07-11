@@ -197,14 +197,16 @@ body {
 .pr-options .pr-option {
 
     height: 145px;
-    width: 273px;
+    /*width: 273px;*/
+    width:24%;
     padding: 20px;
     /*margin: 10px;*/
     background-color: #FFDF00;
 
 
     font-weight: 500;
-    font-size: 24px;
+    /*font-size: 24px;*/
+    font-size:2vw;
     margin-left:-15px;
     margin-right:-15px;
 
@@ -290,16 +292,12 @@ a.pr-widgetbox.active {
 
 
 .pr-widgetbox {
-	margin:-10px !important;
+    margin-left:-15px !important;
+    margin-right: -15px !important;
+
+
 }
 
-.pr-widgetbox:first-child {
-	margin-right:10px !important;
-}
-
-.pr-widgetbox:last-child {
-	margin-left:10px !important;
-}
 
 .pr-hide {
 	display:none;
