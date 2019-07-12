@@ -89,4 +89,97 @@ lancer:
             url: https://drive.google.com/file/d/1cGAng_C7K-kmd3MsVIkLoKTcxCbznioL/view?usp=sharing
           - page: Outils de suivi
             url: https://drive.google.com/file/d/1AEQZrVwt8TfQ9TaAQw34acHKzUqDSaxc/view?usp=sharing
-   
+animer:
+  - title: VIVRE
+    image: assets/images/widget_photo_01.png
+    subfolderitems:
+      - title: Equipe
+        subfolderitems:
+          - page: Répartition des missions
+            url: https://docs.google.com/spreadsheets/d/1t4s20TkewDTIMu-s1EqmkFl5G_fYNNgVWs-8nvZKpdY/edit?usp=sharing
+          - page: Fiche mission Service Civique
+            url: https://drive.google.com/file/d/1kcQ7Gf-1dXa8pcuJlmgWxdinKczrT92U/view?usp=sharing
+      - title: Recherche
+        subfolderitems:
+          - page: Le programme Maison pour vivre, apprendre et agir ensemble
+            url: https://drive.google.com/file/d/1SzX3rAwvqWDhI9BoK83pQc6Q2cB72vTa/view?usp=sharing
+          - page: Questionnaire recherche Typeform
+            url: https://drive.google.com/file/d/1D99zLKksdAIN_ujGvPuBbnB8zL5bj7UJ/view?usp=sharing
+            public: true
+          - page: Analyse de la satisfaction, du vécu et des sentiments de compétences des résidents du programme MA1SON
+            url: https://drive.google.com/file/d/1m67s3k_Gq3LyAF86jZX6A9ukG7mA6Wmp/view?usp=sharing
+      - title: Territoires
+        subfolderitems:
+          - page: Contact des associations
+            url: https://drive.google.com/file/d/17zDwGP8OaxMQGqjLExLMYOTBuCiv-4KL/view?usp=sharing
+          - page: Mapping des associations
+            url: https://drive.google.com/file/d/1fssBBJlaH67G27o9MVi38FRBuMwTXVDM/view?usp=sharing
+          - page: Cartographie
+            url: https://drive.google.com/file/d/1riYSEq4KbpDXdBWIVUx7LJ1E4BYEEtOR/view?usp=sharing
+            public: true
+          - page: Veille des opportunités de financement
+            url: https://drive.google.com/file/d/14NEgXhJ5-IVXQSg4wZ0DRoRJP1zK8-X4/view?usp=sharing
+          - page: Soutien financier aux projets
+            url: https://drive.google.com/file/d/1e70xXhz7tZK-psovETOuL5HvR-hD2v7R/view?usp=sharing
+  - title: AGIR
+    image: assets/images/widget_photo_02.png
+    subfolderitems:
+      - title: Créations et visuels
+        subfolderitems:
+          - page: Logos Article 1
+            url: https://drive.google.com/drive/folders/1I_aV_WW8XE1lkHto1CJ23Q7ii3NQde0v
+          - page: Logos MA1SON
+            url: https://drive.google.com/drive/folders/1eiO5-KHhMNxRMlCmWlAccTJIgeft6WwO
+          - page: Support de communication
+            url: https://drive.google.com/drive/folders/1pzxZduevzsYvfOeZewFXPmbvK5ErSQEe
+          - page: Flyers
+            url: https://drive.google.com/drive/folders/1ucRYPUE_I-p4JsX7X1pvOVyoVdUpcDup
+      - title: Animation de communautés
+        subfolderitems:
+          - page: Billet du jeudi
+            url: https://drive.google.com/open?id=1THNPvr5An7_YpXkILFJjZCZqiO6EepNN
+          - page: Instagram
+            url: https://drive.google.com/file/d/1o2HSZTAxqx-b6WJMhI5aNBPzOO5lwZjc/view?usp=sharing
+          - page: Planning éditorial
+            url: https://drive.google.com/file/d/1pki6BSRpGDZ5MzBG0wj-El_q5jV1tdP7/view?usp=sharing
+      - title: Charte graphique A1 et MA1SON
+        subfolderitems:
+          - page: Logo A1
+            url: https://drive.google.com/file/d/1tipKQ4ZfuvrIucPpymjicd8wZaSsNvKe/view?usp=sharing
+          - page: Logo A1
+            url: https://drive.google.com/file/d/1WIIEQhaIYQIifmCW9GzdiA8654rlASj0/view?usp=sharing
+          - page: Logo MA1SON
+            url: https://drive.google.com/file/d/18-lVnpGWwck0v7Q2aJKCxMSY8bdcQwzU/view?usp=sharing
+      - title: Supports de communication
+        subfolderitems:
+          - page: Présentation du programme
+            url: https://drive.google.com/file/d/1wmRPlswBo4QYW3st3RgC71UJ2hjCtcFc/view?usp=sharing
+          - page: Synthèse du programme
+            url: https://drive.google.com/file/d/1sYcyMJqGxUR1h3fHb1p4eqV1em6yClzs/view?usp=sharing
+  - title: APPRENDRE
+    image: assets/images/widget_photo_03.png
+    subfolderitems:
+      - title: Recrutement des résidents
+        subfolderitems:
+          - page: Présentation de l'entretien de recrutement
+            url: https://docs.google.com/presentation/d/1ftsdq5OTMdLT8BPk56XfRxoVpMRdUTHx4HMnZwZT6oI/edit?usp=sharing
+          - page: Guide de recrutement
+            url: https://drive.google.com/file/d/1oxQURk3tZkhz7qK1R29UX0dA0X7J9iWl/view?usp=sharing
+          - page: Analyse des candidatures écrites
+            url: https://docs.google.com/presentation/d/1wc0cnEo5ICIx_piYhHbmsrJDN5IW9uKIwcfE6SDYTH4/edit?usp=sharing
+      - title: Suivi des résidents
+        subfolderitems:
+          - page: Tableau de suivi
+            url: https://drive.google.com/file/d/1leXsT1X9LhOhrypruWKfCDrwI8Ul4hZB/view?usp=sharing
+          - page: Charte d'engagement
+            url: https://drive.google.com/file/d/1lvvnO9NHN2hEzenf88F6KTEfzH3-SPPb/view?usp=sharing
+      - title: Ambass
+        subfolderitems:
+          - page: Session d'information des Ambass
+            url: https://drive.google.com/file/d/1zu1pC-ccSs0ATRIhLhNLE4XR1fllCDPG/view?usp=sharing
+          - page: Formation des Ambass
+            url: https://drive.google.com/file/d/1zu1pC-ccSs0ATRIhLhNLE4XR1fllCDPG/view?usp=sharing
+          - page: Missions
+            url: https://drive.google.com/file/d/1cGAng_C7K-kmd3MsVIkLoKTcxCbznioL/view?usp=sharing
+          - page: Outils de suivi
+            url: https://drive.google.com/file/d/1AEQZrVwt8TfQ9TaAQw34acHKzUqDSaxc/view?usp=sharing
