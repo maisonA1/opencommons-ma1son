@@ -33,14 +33,12 @@ lancer:
     subfolderitems:
       - title: Créations et visuels
         subfolderitems:
-          - page: Logos Article 1
-            url: https://drive.google.com/drive/folders/1I_aV_WW8XE1lkHto1CJ23Q7ii3NQde0v
-          - page: Logos MA1SON
-            url: https://drive.google.com/drive/folders/1eiO5-KHhMNxRMlCmWlAccTJIgeft6WwO
-          - page: Support de communication
-            url: https://drive.google.com/drive/folders/1pzxZduevzsYvfOeZewFXPmbvK5ErSQEe
-          - page: Flyers
-            url: https://drive.google.com/drive/folders/1ucRYPUE_I-p4JsX7X1pvOVyoVdUpcDup
+          - page: Visuel recrutement réseaux sociaux
+            url: https://drive.google.com/file/d/1fuu-j4gNoLVbi8zhpfUV1meWOxAE7Ahx/view?usp=sharing
+          - page: Flyer recrutement A5
+            url: https://drive.google.com/file/d/12DCxJ20-LT24QBe_HBBju0r5vbu1ioRC/view?usp=sharing
+          - page: Flyers recrutement
+            url: https://drive.google.com/file/d/16KZFfDinqCkNP26tzHi6qJeapOhuAsIe/view?usp=sharing
       - title: Animation de communautés
         subfolderitems:
           - page: Billet du jeudi 
