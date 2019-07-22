@@ -23,10 +23,10 @@ body {
     transition: background-color .2s ease;
 }
 .faq-nav .nav-link:hover {
-    background-color: #f6f6f6;
+    background-color:#FFDF00;
 }
 .faq-nav .nav-link.active {
-    background-color: #f6f6f6;
+    background-color: #FFDF00;
     font-weight: 700;
     color: rgba(0, 0, 0, 0.87);
 }
@@ -50,7 +50,7 @@ body {
 .tab-content .card-header {
     padding: 15px 16px;
     border-radius: 0;
-    background-color: #f6f6f6;
+    background-color: #FFDF00;
 }
 .tab-content .card-header h5 {
     margin: 0;
@@ -80,5 +80,12 @@ body {
 }
 
 .collapse.show .card-body {
+
+    //border-bottom: 1px solid #FFDF00;
     border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+
+.pr-faq .nav-pills .nav-link.active, pr-faq .nav-pills .show>.nav-link {
+    background-color: black;
 }
