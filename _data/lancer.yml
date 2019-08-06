@@ -116,12 +116,12 @@ animer:
         subfolderitems:
           - page: Kit d'organisation des WEOHs
             url: https://drive.google.com/file/d/1CTmM64AaxKNcJRziWeRUK6oP0_MJpjBs/view?usp=sharing
-          - page: Guide pratique WEOH #1
+          - page: Guide pratique WEOH I
             url: https://drive.google.com/file/d/1UsEMBzAXnrSIq3K2iSQXhKb5iddBDl53/view?usp=sharing
-          - page: Guide pratique WEOH #2
+          - page: Guide pratique WEOH II
             url: https://drive.google.com/file/d/15WpGH6NnVJ-05P6qPz5wYkdGvTV9unnu/view?usp=sharing
             public: true
-          - page: Guide pratique WEOH #3
+          - page: Guide pratique WEOH III
             url: https://drive.google.com/file/d/19FpEeqcY43JD_LOBvllcYoOPe7Y2XOU2/view?usp=sharing
   - title: AGIR
     image: assets/images/widget_photo_02.png
@@ -155,12 +155,12 @@ animer:
     subfolderitems:
       - title: PEPS
         subfolderitems:
-          - page: Présentation de l'entretien de recrutement
-            url: https://docs.google.com/presentation/d/1ftsdq5OTMdLT8BPk56XfRxoVpMRdUTHx4HMnZwZT6oI/edit?usp=sharing
-          - page: Guide de recrutement
-            url: https://drive.google.com/file/d/1oxQURk3tZkhz7qK1R29UX0dA0X7J9iWl/view?usp=sharing
-          - page: Analyse des candidatures écrites
-            url: https://docs.google.com/presentation/d/1wc0cnEo5ICIx_piYhHbmsrJDN5IW9uKIwcfE6SDYTH4/edit?usp=sharing
+          - page: Carnet d'espaces
+            url: https://docs.google.com/presentation/d/13wQ6E1r2cFzyUjovi2TUOh2TscX2HnYobKAaNJAVSNo/edit?usp=sharing
+          - page: Ateliers pédagogiques
+            url: https://drive.google.com/drive/folders/1DjB1fO6K2DeXMPiHYS7AOjU6wDc4A2hh?usp=sharing
+          - page: Kits animation 
+            url: https://drive.google.com/drive/folders/1QqUaLcUepbwERnmHnBwQ0d8knbsHjCo0?usp=sharing
       - title: Jobready
         subfolderitems:
           - page: Consignes atelier 1
