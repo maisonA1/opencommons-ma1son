@@ -31,8 +31,8 @@ lancer:
             url: https://drive.google.com/file/d/14NEgXhJ5-IVXQSg4wZ0DRoRJP1zK8-X4/view?usp=sharing
           - page: Soutien financier aux projets
             url: https://drive.google.com/file/d/1e70xXhz7tZK-psovETOuL5HvR-hD2v7R/view?usp=sharing
-    - title: Recruter et former une promotion
-        subfolderitems:
+  - title: Recruter et former une promotion
+    subfolderitems:
       - title: Recrutement des résidents
         subfolderitems:
           - page: Présentation de l'entretien de recrutement
@@ -60,7 +60,7 @@ lancer:
           - page: Bilan Ambass
             url: https://drive.google.com/file/d/1AEQZrVwt8TfQ9TaAQw34acHKzUqDSaxc/view?usp=sharing
   - title: Communiquer sur le programme et les projets
-    subfolderitems:
+      subfolderitems:
       - title: Créations et visuels
         subfolderitems:
           - page: Visuel recrutement réseaux sociaux
@@ -83,9 +83,9 @@ lancer:
         subfolderitems:
           - page: Logo A1 monogramme
             url: https://drive.google.com/file/d/1tipKQ4ZfuvrIucPpymjicd8wZaSsNvKe/view?usp=sharing
-          - page: Logo A1
+          - page: Logo A1 pour fond blanc
             url: https://drive.google.com/file/d/1WIIEQhaIYQIifmCW9GzdiA8654rlASj0/view?usp=sharing
-          - page: Logo MA1SON
+          - page: Logo MA1SON pour fond blanc 
             url: https://drive.google.com/file/d/18-lVnpGWwck0v7Q2aJKCxMSY8bdcQwzU/view?usp=sharing
       - title: Supports de communication
         subfolderitems:
