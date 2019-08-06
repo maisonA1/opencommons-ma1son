@@ -5,6 +5,8 @@ lancer:
         subfolderitems:
           - page: Répartition des missions 
             url: https://docs.google.com/spreadsheets/d/1t4s20TkewDTIMu-s1EqmkFl5G_fYNNgVWs-8nvZKpdY/edit?usp=sharing
+          - page: Fiche mission Porteur de projets 
+            url: https://drive.google.com/file/d/12RyX8sRjAWPp_9CPaEimoJk4K0u2VeVJ/view?usp=sharing
           - page: Fiche mission Service Civique 
             url: https://drive.google.com/file/d/1kcQ7Gf-1dXa8pcuJlmgWxdinKczrT92U/view?usp=sharing
       - title: Recherche
@@ -41,12 +43,14 @@ lancer:
             url: https://drive.google.com/file/d/16KZFfDinqCkNP26tzHi6qJeapOhuAsIe/view?usp=sharing
       - title: Animation de communautés
         subfolderitems:
-          - page: Billet du jeudi 
+          - page: Fiche pratique Billet du jeudi 
+            url: https://drive.google.com/file/d/19bpAshi2KXTxbHeRvz5k2pbT3uGQerOX/view?usp=sharing
+          - page: Archives Billet du jeudi 
             url: https://drive.google.com/open?id=1THNPvr5An7_YpXkILFJjZCZqiO6EepNN
           - page: Instagram
             url: https://drive.google.com/file/d/1wSg3WAqSEiePKF0gHOaEjGvSGr_D9EJc/view?usp=sharing
-          - page: Planning éditorial 
-            url: https://drive.google.com/file/d/1pki6BSRpGDZ5MzBG0wj-El_q5jV1tdP7/view?usp=sharing
+          - page: Facebook 
+            url: 
       - title: Charte graphique A1 et MA1SON
         subfolderitems:
           - page: Logo A1 monogramme
@@ -74,7 +78,7 @@ lancer:
       - title: Suivi des résidents
         subfolderitems:
           - page: Tableau de suivi 
-            url: https://drive.google.com/file/d/1leXsT1X9LhOhrypruWKfCDrwI8Ul4hZB/view?usp=sharing
+            url: https://drive.google.com/file/d/1kSAf6d7XkOMNPMVo2lH8G8MRRPbW8zSf/view?usp=sharing
           - page: Charte d'engagement
             url: https://drive.google.com/file/d/1lvvnO9NHN2hEzenf88F6KTEfzH3-SPPb/view?usp=sharing
       - title: Ambass
@@ -87,7 +91,7 @@ lancer:
             url: https://drive.google.com/file/d/158pUvc69GKg7Yg0TRIKhVGdz4v5hx_bs/view?usp=sharing
           - page: L'année d'un Ambass
             url: https://drive.google.com/file/d/1cGAng_C7K-kmd3MsVIkLoKTcxCbznioL/view?usp=sharing
-          - page: Outils de suivi
+          - page: Bilan Ambass
             url: https://drive.google.com/file/d/1AEQZrVwt8TfQ9TaAQw34acHKzUqDSaxc/view?usp=sharing
 animer:
   - title: VIVRE
