@@ -173,11 +173,5 @@ animer:
             url: https://drive.google.com/file/d/1710516fWDJwaWoMQ7XMHrfTgjJZRo2ar/view?usp=sharing
       - title: Entretiens RH
         subfolderitems:
-          - page: Session d'information des Ambass
-            url: https://drive.google.com/file/d/1zu1pC-ccSs0ATRIhLhNLE4XR1fllCDPG/view?usp=sharing
-          - page: Formation des Ambass
-            url: https://drive.google.com/file/d/1zu1pC-ccSs0ATRIhLhNLE4XR1fllCDPG/view?usp=sharing
-          - page: Missions
-            url: https://drive.google.com/file/d/1cGAng_C7K-kmd3MsVIkLoKTcxCbznioL/view?usp=sharing
-          - page: Outils de suivi
-            url: https://drive.google.com/file/d/1AEQZrVwt8TfQ9TaAQw34acHKzUqDSaxc/view?usp=sharing
+          - page:
+            url:
