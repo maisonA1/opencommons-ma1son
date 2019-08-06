@@ -8,7 +8,9 @@ lancer:
           - page: Fiche mission Porteur de projets 
             url: https://drive.google.com/file/d/12RyX8sRjAWPp_9CPaEimoJk4K0u2VeVJ/view?usp=sharing
           - page: Fiche mission Service Civique 
-            url: https://drive.google.com/file/d/1kcQ7Gf-1dXa8pcuJlmgWxdinKczrT92U/view?usp=sharing
+            url: https://drive.google.com/file/d/1HaIedVwk1Dc5TKyhyucMvQZqFSjbmS8M/view?usp=sharing
+          - page: Suivi Service Civique 
+            url: https://drive.google.com/file/d/1kqXwBITmJVQnCEXCf11FT9c2xOG7vHuB/view?usp=sharing
       - title: Recherche
         subfolderitems:
           - page: Le programme Maison pour vivre, apprendre et agir ensemble
@@ -102,7 +104,7 @@ animer:
           - page: La charte des Buddies
             url: https://drive.google.com/open?id=1rX-xyF8IqnbboeuzG2b2narbT9DeJaD1
           - page: Fiche pratique Buddies
-            url: 
+            url: https://drive.google.com/file/d/1k1UHasJegVtxejftV2ZiDJBLzqa1wV6g/view?usp=sharing
       - title: Evénements conviviaux
         subfolderitems:
           - page: Formation pour l'organisation d'événements conviviaux
