@@ -31,6 +31,34 @@ lancer:
             url: https://drive.google.com/file/d/14NEgXhJ5-IVXQSg4wZ0DRoRJP1zK8-X4/view?usp=sharing
           - page: Soutien financier aux projets
             url: https://drive.google.com/file/d/1e70xXhz7tZK-psovETOuL5HvR-hD2v7R/view?usp=sharing
+    - title: Recruter et former une promotion
+        subfolderitems:
+      - title: Recrutement des résidents
+        subfolderitems:
+          - page: Présentation de l'entretien de recrutement
+            url: https://docs.google.com/presentation/d/1ftsdq5OTMdLT8BPk56XfRxoVpMRdUTHx4HMnZwZT6oI/edit?usp=sharing
+          - page: Guide de recrutement
+            url: https://drive.google.com/file/d/1oxQURk3tZkhz7qK1R29UX0dA0X7J9iWl/view?usp=sharing
+          - page: Analyse des candidatures écrites 
+            url: https://docs.google.com/presentation/d/1wc0cnEo5ICIx_piYhHbmsrJDN5IW9uKIwcfE6SDYTH4/edit?usp=sharing
+      - title: Suivi des résidents
+        subfolderitems:
+          - page: Tableau de suivi 
+            url: https://drive.google.com/file/d/1kSAf6d7XkOMNPMVo2lH8G8MRRPbW8zSf/view?usp=sharing
+          - page: Charte d'engagement
+            url: https://drive.google.com/file/d/1lvvnO9NHN2hEzenf88F6KTEfzH3-SPPb/view?usp=sharing
+      - title: Ambass
+        subfolderitems:
+          - page: Session d'information des Ambass
+            url: https://drive.google.com/file/d/1HXlqKmuildXwYJWpPNpJFtldI9u3Y15V/view?usp=sharing
+          - page: Formation des Ambass
+            url: https://drive.google.com/file/d/1zu1pC-ccSs0ATRIhLhNLE4XR1fllCDPG/view?usp=sharing
+          - page: Fiche missions
+            url: https://drive.google.com/file/d/158pUvc69GKg7Yg0TRIKhVGdz4v5hx_bs/view?usp=sharing
+          - page: L'année d'un Ambass
+            url: https://drive.google.com/file/d/1cGAng_C7K-kmd3MsVIkLoKTcxCbznioL/view?usp=sharing
+          - page: Bilan Ambass
+            url: https://drive.google.com/file/d/1AEQZrVwt8TfQ9TaAQw34acHKzUqDSaxc/view?usp=sharing
   - title: Communiquer sur le programme et les projets
     subfolderitems:
       - title: Créations et visuels
@@ -65,34 +93,6 @@ lancer:
             url: https://drive.google.com/file/d/1wmRPlswBo4QYW3st3RgC71UJ2hjCtcFc/view?usp=sharing
           - page: Synthèse du programme 
             url: https://drive.google.com/file/d/1sYcyMJqGxUR1h3fHb1p4eqV1em6yClzs/view?usp=sharing 
-  - title: Recruter et former une promotion
-    subfolderitems:
-      - title: Recrutement des résidents
-        subfolderitems:
-          - page: Présentation de l'entretien de recrutement
-            url: https://docs.google.com/presentation/d/1ftsdq5OTMdLT8BPk56XfRxoVpMRdUTHx4HMnZwZT6oI/edit?usp=sharing
-          - page: Guide de recrutement
-            url: https://drive.google.com/file/d/1oxQURk3tZkhz7qK1R29UX0dA0X7J9iWl/view?usp=sharing
-          - page: Analyse des candidatures écrites 
-            url: https://docs.google.com/presentation/d/1wc0cnEo5ICIx_piYhHbmsrJDN5IW9uKIwcfE6SDYTH4/edit?usp=sharing
-      - title: Suivi des résidents
-        subfolderitems:
-          - page: Tableau de suivi 
-            url: https://drive.google.com/file/d/1kSAf6d7XkOMNPMVo2lH8G8MRRPbW8zSf/view?usp=sharing
-          - page: Charte d'engagement
-            url: https://drive.google.com/file/d/1lvvnO9NHN2hEzenf88F6KTEfzH3-SPPb/view?usp=sharing
-      - title: Ambass
-        subfolderitems:
-          - page: Session d'information des Ambass
-            url: https://drive.google.com/file/d/1HXlqKmuildXwYJWpPNpJFtldI9u3Y15V/view?usp=sharing
-          - page: Formation des Ambass
-            url: https://drive.google.com/file/d/1zu1pC-ccSs0ATRIhLhNLE4XR1fllCDPG/view?usp=sharing
-          - page: Fiche missions
-            url: https://drive.google.com/file/d/158pUvc69GKg7Yg0TRIKhVGdz4v5hx_bs/view?usp=sharing
-          - page: L'année d'un Ambass
-            url: https://drive.google.com/file/d/1cGAng_C7K-kmd3MsVIkLoKTcxCbznioL/view?usp=sharing
-          - page: Bilan Ambass
-            url: https://drive.google.com/file/d/1AEQZrVwt8TfQ9TaAQw34acHKzUqDSaxc/view?usp=sharing
 animer:
   - title: VIVRE
     image: assets/images/widget_photo_01.png
