@@ -60,7 +60,7 @@ lancer:
           - page: Bilan Ambass
             url: https://drive.google.com/file/d/1AEQZrVwt8TfQ9TaAQw34acHKzUqDSaxc/view?usp=sharing
   - title: Communiquer sur le programme et les projets
-      subfolderitems:
+    subfolderitems:
       - title: Créations et visuels
         subfolderitems:
           - page: Visuel recrutement réseaux sociaux
