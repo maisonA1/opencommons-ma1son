@@ -5,16 +5,9 @@ admin_path:
 webhook_url: 
 sections:
 - type: heading
-  label: Data files
-- type: jekyll-pages
-  label: Pages
-  create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
-  sections:
+  label: Données
 - type: directory
-  label: Data
+  label: Kit opencommons
   path: _data
   match: "*.yml"
   new_doc_ext: ".yml"
