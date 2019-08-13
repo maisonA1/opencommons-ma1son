@@ -7,11 +7,11 @@ sections:
 - type: heading
   label: Données
 - type: directory
-  label: Kit opencommons
   path: _data
-  match: "*.yml"
-  new_doc_ext: ".yml"
+  label: Kit opencommons
   create: all
+  match: "*.yml"
+  new_doc_ext: yml
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
