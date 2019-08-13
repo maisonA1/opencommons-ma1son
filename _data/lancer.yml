@@ -82,7 +82,7 @@ lancer:
     - page: Instagram
       url: https://drive.google.com/file/d/1wSg3WAqSEiePKF0gHOaEjGvSGr_D9EJc/view?usp=sharing
     - page: Facebook
-      url: 
+      url: ''
   - title: Charte graphique A1 et MA1SON
     subfolderitems:
     - page: Logo A1 monogramme
@@ -177,5 +177,5 @@ animer:
       url: https://drive.google.com/file/d/1710516fWDJwaWoMQ7XMHrfTgjJZRo2ar/view?usp=sharing
   - title: Entretiens RH
     subfolderitems:
-    - page: 
-      url: 
+    - page: ''
+      url: ''
