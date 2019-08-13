@@ -155,7 +155,7 @@ animer:
     - page: Evaluation des projets soirée finale
       url: https://docs.google.com/document/d/12lOauwnJ3lK2_WNdGjXdOoNts_uFwhUevn4W0p0M_gQ/edit?usp=sharing
 - title: APPRENDRE
-  image: assets/images/widget_photo_03.png
+  image: uploads/widget_photo_03.png
   subfolderitems:
   - title: PEPS
     subfolderitems:
