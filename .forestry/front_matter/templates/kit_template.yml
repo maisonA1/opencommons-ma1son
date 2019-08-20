@@ -1,0 +1,55 @@
+---
+label: kit_template
+hide_body: true
+fields:
+- type: field_group_list
+  name: lancer
+  label: lancer
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: subfolderitems
+    label: subfolderitems
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: field_group_list
+      name: subfolderitems
+      label: subfolderitems
+      fields:
+      - type: text
+        name: page
+        label: page
+      - type: text
+        name: url
+        label: url
+- type: field_group_list
+  name: animer
+  label: animer
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: image
+    label: image
+  - type: field_group_list
+    name: subfolderitems
+    label: subfolderitems
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: field_group_list
+      name: subfolderitems
+      label: subfolderitems
+      fields:
+      - type: text
+        name: page
+        label: page
+      - type: text
+        name: url
+        label: url
