@@ -39,6 +39,8 @@ lancer:
   subfolderitems:
   - title: Recrutement des résidents
     subfolderitems:
+    - page: Guide du recrutement des résidents
+      url: https://drive.google.com/file/d/1dXh-67eotNdry_GPmnxOaoTc7TT34S1P/view?usp=sharing
     - page: Présentation de l'entretien de recrutement
       url: https://docs.google.com/presentation/d/1ftsdq5OTMdLT8BPk56XfRxoVpMRdUTHx4HMnZwZT6oI/edit?usp=sharing
     - page: Guide de recrutement
