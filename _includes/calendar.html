@@ -1,100 +1,23 @@
-<div class="pr-middle-row row">
-    <div class="pr-title col-12 pl-0" id="ressources">Calendar</div>
-    <hr class="pr-yellow-line-short mt-1 mb-3">
-</div>
+<div class="pr-folders-container p-5">
+    <div class="container">
 
-
-<div class="pr-folders-container container rounded p-4">
-
-    <div class="row mb-0 pt-5">
-
-        <div class="pr-calendar-month col-3">
-            Janvier
+        <div class="pr-middle-row row pb-3">
+            <div class="pr-title col-12 pl-0 pr-0 text-center" id="ressources">Calendrier</div>
+            <hr class="pr-black-line-short mt-1 mb-3 mx-auto">
         </div>
 
-        <div class="pr-calendar-bullet-top col-1">
-
+        {% for item in site.data.calendrier.calendrier %}
+        <div class="row mb-0">
+            <div class="pr-calendar-month col-3">
+                {{ item.date }}
+            </div>
+            <div class="pr-calendar-bullet-top col-1 {% if forloop.last == true %}pr-limit-height{% endif %}">
+            </div>
+            <div class="pr-calendar-description col-7">
+                {{ item.content }}
+            </div>
         </div>
-
-
-        <div class="pr-calendar-description col-8">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-        </div>
+        {% endfor %}
 
     </div>
-
-
-    <div class="row my-0">
-
-        <div class="pr-calendar-month col-3">
-            Fevrier
-        </div>
-
-        <div class="pr-calendar-bullet-top col-1">
-
-        </div>
-
-
-        <div class="pr-calendar-description col-8">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-        </div>
-
-    </div>
-
-
-
-    <div class="row my-0">
-
-        <div class="pr-calendar-month col-3">
-            Mars
-        </div>
-
-        <div class="pr-calendar-bullet-top col-1">
-
-        </div>
-
-
-        <div class="pr-calendar-description col-8">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-        </div>
-
-    </div>
-
-
-    <div class="row my-0">
-
-        <div class="pr-calendar-month col-3">
-            Avril
-        </div>
-
-        <div class="pr-calendar-bullet-top col-1">
-
-        </div>
-
-
-        <div class="pr-calendar-description col-8">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-        </div>
-
-    </div>
-
-
-    <div class="row my-0">
-
-        <div class="pr-calendar-month col-3">
-            Mai
-        </div>
-
-        <div class="pr-calendar-bullet-bottom col-1">
-
-        </div>
-
-
-        <div class="pr-calendar-description col-8">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-        </div>
-
-    </div>
-
-
 </div>

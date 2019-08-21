@@ -10,7 +10,7 @@
        border: 1px solid black;
     }*/
 
-
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
 html {
     box-sizing: border-box;
@@ -179,7 +179,7 @@ body {
 }
 
 
-.pr-yellow-line-short {
+.pr-yellow-line-short, .pr-black-line-short {
     border: 3px solid #FFDF00;
     width: 150px;
     margin: auto;
@@ -189,6 +189,10 @@ body {
     text-align: left;
     margin-left: 0;
 
+}
+
+.pr-black-line-short {
+    border: 3px solid #000000;
 }
 
 .pr-middle .pr-title {
@@ -312,6 +316,7 @@ a.pr-widgetbox.active {
     font-weight: 500;
     text-align: center;
     line-height: 60px;
+    color: black;
 }
 
 .nav-pills.pr-widgetboxes .nav-link.active, .nav-pills .show>.nav-link {
@@ -379,3 +384,52 @@ a.pr-widgetbox.active {
 //.row {
 //    border: 1px solid black;
 //}
+
+.pr-faq {
+    .tab-content {
+        box-shadow: none;
+
+        .card {
+            border: none;
+            //border-top: 2px #000000 solid;
+            //border-bottom: 2px #000000 solid !important;
+
+            .card-header {
+                padding: 0;
+                background-color: unset;
+                border-bottom: none;
+
+                h5 {
+                    padding: 12px 16px 12px 0;
+                }
+            }
+
+            .card-body {
+                padding-left: 36px;
+            }
+
+            .collapse.show .card-body {
+                border-bottom: none;
+            }
+
+            button.collapsed:before {
+                font-family: 'Material Icons';
+                content: '\e145';
+                padding-right: 16px;
+                position: relative;
+                top: 2px;
+            }
+            button:not(.collapsed):before {
+                font-family: 'Material Icons';
+                content: '\e15b';
+                padding-right: 16px;
+                position: relative;
+                top: 2px;
+            }
+        }
+    }
+}
+
+.pr-limit-height {
+    height: 20px;
+}
