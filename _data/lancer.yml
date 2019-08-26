@@ -130,10 +130,6 @@ animer:
 - title: AGIR
   image: uploads/widget_photo_02.png
   subfolderitems:
-  - title: Les projets
-    subfolderitems:
-    - page: Suivi des projets
-      url: https://docs.google.com/presentation/d/17aNpg65K_ldm2FeSEAcz7kJp6AkisaQHBmLtYwnL7ZY/edit?usp=sharing
   - title: Les coachs
     subfolderitems:
     - page: Missions
@@ -142,6 +138,10 @@ animer:
       url: https://drive.google.com/file/d/1kt72hgC06ow4974eJS0NsGk4cOUt96Po/view?usp=sharing
     - page: Suivi
       url: https://docs.google.com/spreadsheets/d/1VD_9ifb4u3ledY6_Kv-Il5hRV4IGgcjwFk0naidrmCU/edit?usp=sharing
+  - title: Les projets
+    subfolderitems:
+    - page: Suivi des projets
+      url: https://docs.google.com/presentation/d/17aNpg65K_ldm2FeSEAcz7kJp6AkisaQHBmLtYwnL7ZY/edit?usp=sharing
   - title: Les soirées des projets
     subfolderitems:
     - page: Déroulé soirée intermédiaire
