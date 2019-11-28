@@ -35,7 +35,7 @@ lancer:
       url: https://drive.google.com/file/d/14NEgXhJ5-IVXQSg4wZ0DRoRJP1zK8-X4/view?usp=sharing
     - page: Soutien financier aux projets
       url: https://drive.google.com/file/d/17MWEksdQwzfMjATrouJzZBj7vXP0Wq8H/view?usp=sharing
-- title: Recruter et former une promotion
+- title: Recruter, former et suivre une promotion
   subfolderitems:
   - title: Recrutement des résidents
     subfolderitems:
@@ -45,8 +45,6 @@ lancer:
       url: https://drive.google.com/file/d/1oxQURk3tZkhz7qK1R29UX0dA0X7J9iWl/view?usp=sharing
   - title: Suivi des résidents
     subfolderitems:
-    - page: ''
-      url: ''
     - page: 'Carnet d''espaces '
       url: ''
     - page: Tableau de suivi
