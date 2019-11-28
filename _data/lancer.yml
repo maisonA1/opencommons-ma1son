@@ -159,6 +159,8 @@ animer:
   subfolderitems:
   - title: 'Carnet d''espaces - Résidents '
     subfolderitems:
+    - page: Espace Elabore
+      url: ''
     - page: Espace Impulse
       url: ''
   - title: PEPS
