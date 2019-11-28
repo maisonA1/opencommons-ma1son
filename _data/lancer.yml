@@ -159,11 +159,11 @@ animer:
   subfolderitems:
   - title: 'Carnet d''espaces - Résidents '
     subfolderitems:
-    - page: Espace Réalise
+    - page: Espace Impulse
       url: ''
     - page: Espace Elabore
       url: ''
-    - page: Espace Impulse
+    - page: Espace Réalise
       url: ''
   - title: PEPS
     subfolderitems:
