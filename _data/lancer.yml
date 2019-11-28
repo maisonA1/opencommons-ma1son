@@ -45,6 +45,8 @@ lancer:
       url: https://drive.google.com/file/d/1oxQURk3tZkhz7qK1R29UX0dA0X7J9iWl/view?usp=sharing
   - title: Suivi des résidents
     subfolderitems:
+    - page: ''
+      url: ''
     - page: 'Carnet d''espaces '
       url: ''
     - page: Tableau de suivi
@@ -159,14 +161,6 @@ animer:
 - title: APPRENDRE
   image: uploads/widget_photo_03.png
   subfolderitems:
-  - title: 'Carnet d''espaces - Résidents '
-    subfolderitems:
-    - page: Espace Impulse
-      url: ''
-    - page: Espace Elabore
-      url: ''
-    - page: Espace Réalise
-      url: ''
   - title: PEPS
     subfolderitems:
     - page: Livret pédagogique
