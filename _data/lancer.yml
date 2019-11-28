@@ -45,6 +45,8 @@ lancer:
       url: https://drive.google.com/file/d/1oxQURk3tZkhz7qK1R29UX0dA0X7J9iWl/view?usp=sharing
   - title: Suivi des résidents
     subfolderitems:
+    - page: 'Carnet d''espaces '
+      url: ''
     - page: Tableau de suivi
       url: https://drive.google.com/file/d/1kSAf6d7XkOMNPMVo2lH8G8MRRPbW8zSf/view?usp=sharing
     - page: Charte d'engagement
