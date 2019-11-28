@@ -157,6 +157,10 @@ animer:
 - title: APPRENDRE
   image: uploads/widget_photo_03.png
   subfolderitems:
+  - title: 'Carnet d''espaces - Résidents '
+    subfolderitems:
+    - page: Espace Impulse
+      url: ''
   - title: PEPS
     subfolderitems:
     - page: Carnet d'espaces
