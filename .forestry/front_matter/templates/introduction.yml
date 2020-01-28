@@ -11,5 +11,10 @@ fields:
 - type: file
   name: image
   label: image
+- name: logo
+  type: file
+  config:
+    maxSize: 250
+  label: logo
 pages:
 - _data/introduction.yml
