@@ -161,12 +161,12 @@ animer:
   subfolderitems:
   - title: PEPS
     subfolderitems:
-    - page: Livret pédagogique Impulse
+    - page: Livret pédagogique phase Impulse
       url: https://view.genial.ly/5ddfc6555132af0f00deb1e6
-    - page: Livret pédagogique Élabore
+    - page: Livret pédagogique phase Élabore
       url: https://view.genial.ly/5df753baa088af0ef3880ec9
     - url: https://view.genial.ly/5df753e7a088af0ef38812ef
-      page: Livret pédagogique Réalise
+      page: Livret pédagogique phase Réalise
     - page: Ateliers pédagogiques
       url: https://drive.google.com/drive/folders/1DjB1fO6K2DeXMPiHYS7AOjU6wDc4A2hh?usp=sharing
   - title: Jobready
