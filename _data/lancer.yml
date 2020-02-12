@@ -152,12 +152,10 @@ animer:
       url: https://drive.google.com/file/d/1vRXla3bYTcsB7ncYm9NZ6luH6oWRWw1T/view?usp=sharing
     - page: Déroulé soirée des projets
       url: https://view.genial.ly/5e42cb59c697191f0bca88fd
-    - page: Questionnaire évaluation soirée intermédiaire
+    - page: Questionnaire évaluation des projets
       url: https://drive.google.com/file/d/1eqje3QV6ta6aQvWGZgHgxs_1uESbo6Om/view?usp=sharing
     - page: Reporting évaluation soirée intermédiaire
       url: https://drive.google.com/file/d/1Y8OSsT90I7rI5pUCyJRQ6Ft07aORtIH0/view?usp=sharing
-    - page: Evaluation des projets soirée finale
-      url: https://docs.google.com/document/d/12lOauwnJ3lK2_WNdGjXdOoNts_uFwhUevn4W0p0M_gQ/edit?usp=sharing
 - title: APPRENDRE
   image: uploads/widget_photo_03.png
   subfolderitems:
