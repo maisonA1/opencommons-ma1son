@@ -78,19 +78,19 @@ lancer:
     - page: Fiche pratique Billet du jeudi
       url: https://drive.google.com/file/d/19bpAshi2KXTxbHeRvz5k2pbT3uGQerOX/view?usp=sharing
     - page: Archives Billet du jeudi
-      url: https://drive.google.com/open?id=1THNPvr5An7_YpXkILFJjZCZqiO6EepNN
+      url: https://drive.google.com/drive/folders/12pODGJ8UzXjeGo62jXJyJkY8BvosAAZa?usp=sharing
     - page: Instagram
       url: https://drive.google.com/file/d/1wSg3WAqSEiePKF0gHOaEjGvSGr_D9EJc/view?usp=sharing
-    - page: Facebook
-      url: ''
   - title: Charte graphique A1 et MA1SON
     subfolderitems:
-    - page: Logo A1 monogramme
-      url: https://drive.google.com/file/d/1-JuOwosz2A2TaXLKjMiY-aqXKArxag6Q/view?usp=sharing
     - page: Logo A1
       url: https://drive.google.com/file/d/1rRkM_hSXZFod9UQMggrvvwL7Z5JXJP4q/view?usp=sharing
-    - page: Logo MA1SON
+    - page: Logo A1 monogramme
+      url: https://drive.google.com/file/d/1-JuOwosz2A2TaXLKjMiY-aqXKArxag6Q/view?usp=sharing
+    - page: Logo Ma1son avec baseline
       url: https://drive.google.com/file/d/1YrYQXP5htYErxKdRIpGtyCAo7r77ujS9/view?usp=sharing
+    - page: Logo MA1SON sans baseline
+      url: https://drive.google.com/file/d/1J67TDWiZ5KN3XdMnbkVfn-r1TKRfe0HO/view?usp=sharing
   - title: Supports de communication
     subfolderitems:
     - page: Présentation du programme
@@ -116,7 +116,7 @@ animer:
       public: true
     - page: Exemple d'activité conviviale
       url: https://drive.google.com/file/d/1tCFid_gi91akmyDojW9eSEf0z7IgnU42/view?usp=sharing
-    - page: Diaporama événements conviviaux
+    - page: Suivi des événements conviviaux
       url: https://docs.google.com/presentation/d/1Lvyn8UwYfQG_Ekgi9tzy17iJqMs8GQpT9GM63SAbmBo/edit?usp=sharing
   - title: WEOHs
     subfolderitems:
@@ -134,14 +134,14 @@ animer:
   subfolderitems:
   - title: Les coachs
     subfolderitems:
-    - page: Bilan de fin d'année
-      url: https://docs.google.com/spreadsheets/d/1VD_9ifb4u3ledY6_Kv-Il5hRV4IGgcjwFk0naidrmCU/edit?usp=sharing
     - page: Missions
       url: https://drive.google.com/file/d/1WAFk6e5lKh7UHjoB5XsQcpw1wK13mBmP/view?usp=sharing
     - page: L'année d'un coach MA1SON
       url: https://view.genial.ly/5da03a1b1d4c0d0f64f077f2
     - page: Suivi
       url: https://drive.google.com/file/d/1kSAf6d7XkOMNPMVo2lH8G8MRRPbW8zSf/view?usp=sharing
+    - page: Bilan de fin d'année
+      url: https://docs.google.com/spreadsheets/d/1VD_9ifb4u3ledY6_Kv-Il5hRV4IGgcjwFk0naidrmCU/edit?usp=sharing
   - title: Les projets
     subfolderitems:
     - page: Suivi des projets
