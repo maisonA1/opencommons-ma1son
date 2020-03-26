@@ -171,13 +171,11 @@ animer:
       url: https://drive.google.com/drive/folders/1DjB1fO6K2DeXMPiHYS7AOjU6wDc4A2hh?usp=sharing
   - title: Jobready
     subfolderitems:
-    - page: Consignes atelier 1
-      url: https://drive.google.com/file/d/1gSbH_E4BT2-bPZuVPlbholn1jbEpe20a/view?usp=sharing
-    - page: Grille consensuelle atelier 1
-      url: https://drive.google.com/file/d/1SzPiVedsbUq8YQJN0-4CU9mMto56YpMT/view?usp=sharing
-    - page: Grille individuelle atelier 1
-      url: https://drive.google.com/file/d/1UMUEmZOlaE6w0_gySId7AwW2s6PN98LS/view?usp=sharing
-    - page: Declic softskills atelier 2
+    - page: 'Répertoire des compétences '
+      url: ''
+    - page: Atelier 2 Apprendre à se connaître
+      url: https://drive.google.com/open?id=19Yg2f_PZJBiaTico8vFU_RN-KeUTd6F0
+    - page: 'Atelier 1 Déclic soft skills '
       url: https://drive.google.com/file/d/1710516fWDJwaWoMQ7XMHrfTgjJZRo2ar/view?usp=sharing
   - title: Entretiens RH
     subfolderitems:
