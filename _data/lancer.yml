@@ -175,8 +175,8 @@ animer:
       url: https://drive.google.com/open?id=19Yg2f_PZJBiaTico8vFU_RN-KeUTd6F0
     - page: 'Livret d''activités '
       url: https://drive.google.com/open?id=1olumjht1hkjottcrx4BVlrnuBkRq2ikt
-    - page: 'Répertoire des compétences '
-      url: ''
+    - page: Référentiel des compétences transversales
+      url: https://drive.google.com/open?id=1kYGshutkuqnSjQwuG8fnAG0wp3GZo4XA
   - title: Entretiens RH
     subfolderitems:
     - page: ''
