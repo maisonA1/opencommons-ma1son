@@ -4,14 +4,12 @@ lancer:
   subfolderitems:
   - title: Equipe
     subfolderitems:
+    - page: 'Volontaires en Service Civique '
+      url: https://drive.google.com/open?id=1R8ET9OVRkJ3QJxsQjN29QApRmxjayyX4
     - page: Répartition des missions
       url: https://docs.google.com/spreadsheets/d/1t4s20TkewDTIMu-s1EqmkFl5G_fYNNgVWs-8nvZKpdY/edit?usp=sharing
     - page: Fiche mission Porteur de projets
       url: https://drive.google.com/file/d/12RyX8sRjAWPp_9CPaEimoJk4K0u2VeVJ/view?usp=sharing
-    - page: Fiche mission Service Civique
-      url: https://drive.google.com/file/d/1HaIedVwk1Dc5TKyhyucMvQZqFSjbmS8M/view?usp=sharing
-    - page: Suivi Service Civique
-      url: https://drive.google.com/file/d/1kqXwBITmJVQnCEXCf11FT9c2xOG7vHuB/view?usp=sharing
   - title: Recherche
     subfolderitems:
     - page: Le programme Maison pour vivre, apprendre et agir ensemble
