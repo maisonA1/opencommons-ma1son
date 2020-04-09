@@ -105,10 +105,10 @@ animer:
       url: https://drive.google.com/open?id=1BMHPIozsGkRAfR0P5tnFOBQsxU5pR6Y4
   - title: Evénements conviviaux
     subfolderitems:
-    - page: Jeu d'organisation d'événements conviviaux
-      url: https://drive.google.com/open?id=1ZxTUPvJg7Mo7dkST3RvzEvLqP_l40iCs
     - page: Formation pour l'organisation d'événements conviviaux
       url: https://docs.google.com/presentation/d/19EEhYRa32vtl5vJC7bjqbKdfPr9btsey6UxL2JQvLYc/edit?usp=sharing
+    - page: Jeu d'organisation d'événements conviviaux
+      url: https://drive.google.com/open?id=1ZxTUPvJg7Mo7dkST3RvzEvLqP_l40iCs
     - page: Fiche pratique événements conviviaux
       url: https://drive.google.com/file/d/1236RwN4Zh-WossyhZ481264E7eTAxYH-/view?usp=sharing
       public: true
