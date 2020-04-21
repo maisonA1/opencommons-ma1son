@@ -31,8 +31,6 @@ lancer:
       public: true
     - page: Veille des opportunités de financement
       url: https://drive.google.com/file/d/14NEgXhJ5-IVXQSg4wZ0DRoRJP1zK8-X4/view?usp=sharing
-    - page: Soutien financier aux projets
-      url: https://drive.google.com/file/d/17MWEksdQwzfMjATrouJzZBj7vXP0Wq8H/view?usp=sharing
 - title: Recruter, former et suivre une promotion
   subfolderitems:
   - title: Recrutement des résidents
