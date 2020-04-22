@@ -65,8 +65,10 @@ lancer:
     subfolderitems:
     - page: Fiche pratique Billet hebdomadaire
       url: https://drive.google.com/open?id=1F2MwjHUB5ELLQG2OkH_pdgyqzyFjzAyE
-  - title: Créations et visuels
-    subfolderitems: []
+  - title: Visuels
+    subfolderitems:
+    - url: https://drive.google.com/open?id=1zOhob2gaDj-JycJ26LcMQt9TCxFPREkL
+      page: Visuels réseaux sociaux
   - title: Charte graphique A1 et MA1SON
     subfolderitems:
     - page: Logo A1
