@@ -140,12 +140,8 @@ animer:
       url: https://drive.google.com/open?id=1yfk1hy-7vMMd0cqn_x7mvNrbqHh_UakR
   - title: Les soirées des projets
     subfolderitems:
-    - page: Fiche pratique soirée des projets
-      url: https://drive.google.com/file/d/1vRXla3bYTcsB7ncYm9NZ6luH6oWRWw1T/view?usp=sharing
-    - page: Déroulé soirée des projets
-      url: https://view.genial.ly/5e42cb59c697191f0bca88fd
-    - page: Questionnaire évaluation des projets
-      url: https://drive.google.com/file/d/1eqje3QV6ta6aQvWGZgHgxs_1uESbo6Om/view?usp=sharing
+    - page: Kit soirées des projets
+      url: ''
     - page: Reporting évaluation soirée intermédiaire
       url: https://drive.google.com/file/d/1-n0Xqz9f7u0vL7IIb7zcqg7rx0F1ZN0-/view?usp=sharing
 - title: APPRENDRE
