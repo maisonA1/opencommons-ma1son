@@ -136,14 +136,12 @@ animer:
       url: https://drive.google.com/open?id=1_rL28REP4P25fKNw3lrtWwZ_sqJiPio1
     - page: 'Suivi des projets '
       url: https://drive.google.com/open?id=1O7-GT6mnzPSyZKZ_8hAHUbzHZFIG9tY4
-    - page: 'Kit des soirées des projets '
-      url: https://view.genial.ly/5e8af3c5d5aa510e32cf3bac/guide-kit-soiree-des-projets
     - page: Appel à projets MA1SON
       url: https://drive.google.com/open?id=1yfk1hy-7vMMd0cqn_x7mvNrbqHh_UakR
   - title: Les soirées des projets
     subfolderitems:
     - page: Kit soirées des projets
-      url: ''
+      url: https://view.genial.ly/5e8af3c5d5aa510e32cf3bac/guide-kit-soiree-des-projets
 - title: APPRENDRE
   image: uploads/widget_photo_03.png
   subfolderitems:
